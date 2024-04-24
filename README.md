@@ -1,7 +1,7 @@
 # Medical Assistant System
 
 ## Introduction
-This project is designed to intake symptoms reported by users, predict potential diseases, and then recommend the most appropriate specialist doctors based on user ratings. It is especially beneficial for individuals who may not have extensive medical knowledge but need guidance on whether and when to consult a doctor. By accurately predicting diseases from symptoms and linking these to specialized doctors, the system ensures that patients can seek timely and relevant medical advice, reducing unnecessary hospital visits and allowing for more targeted healthcare interventions.
+This project is designed to intake symptoms reported by users, provide detailed information about the most likely diseases, predict potential diseases, and then recommend the most appropriate specialist doctors based on user ratings. This approach is particularly beneficial for individuals who may not have extensive medical knowledge but require guidance on whether and when to consult a doctor. By not only predicting diseases from symptoms but also providing educational content about these conditions, the system ensures that patients are well-informed and can seek timely and relevant medical advice. This helps in reducing unnecessary hospital visits and allows for more targeted healthcare interventions.
 
 ## Overview
 The system takes symptoms from users, predicts possible diseases, and then recommends corresponding specialist doctors based on the highest user satisfaction scores. It aims to simplify and improve the accuracy of self-diagnosis processes and streamline the process of finding the right medical professional.
