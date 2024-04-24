@@ -1,7 +1,7 @@
 # Medical Assistant System
 
 ## Introduction
-This project leverages advanced machine learning and information retrieval techniques to predict diseases based on user-provided symptoms and recommends corresponding specialist doctors based on user ratings. This system is particularly useful for individuals with limited medical knowledge and can aid in early disease detection and diagnosis. It also offers a solution for those hesitant to visit hospitals for minor symptoms by providing preliminary insights into the potential severity of their condition.
+This project is designed to intake symptoms reported by users, predict potential diseases, and then recommend the most appropriate specialist doctors based on user ratings. It is especially beneficial for individuals who may not have extensive medical knowledge but need guidance on whether and when to consult a doctor. By accurately predicting diseases from symptoms and linking these to specialized doctors, the system ensures that patients can seek timely and relevant medical advice, reducing unnecessary hospital visits and allowing for more targeted healthcare interventions.
 
 ## Overview
 The system takes symptoms from users, predicts possible diseases, and then recommends corresponding specialist doctors based on the highest user satisfaction scores. It aims to simplify and improve the accuracy of self-diagnosis processes and streamline the process of finding the right medical professional.
