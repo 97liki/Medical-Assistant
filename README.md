@@ -20,6 +20,12 @@ Mapping between diseases and symptoms was generated using advanced natural langu
 - **Disease Prediction:** The system employs machine learning models to predict potential diseases based on the input symptoms.
 - **Doctor Recommendation:** Based on the predicted diseases, the system recommends doctors specializing in the relevant medical fields, prioritizing those with the highest user satisfaction ratings.
 
+## Requirements
+Before running the system, ensure all necessary dependencies are installed. Please refer to the `requirements.txt` file included in the repository, which lists all the libraries and their versions needed for the project. To install these dependencies, run the following command in your virtual environment:\n
+pip install -r requirements.txt
+
+
+
 ## Running the System
 To operate the system:
 1. **Notebook Use:** Open the `Doctor_Recommendation.ipynb` in Google Colab (recommended) or any Jupyter environment.
