@@ -5,4 +5,5 @@ nltk
 beautifulsoup4
 requests
 xgboost
-googlesearch-python
+beautifulsoup4
+google
